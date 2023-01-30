@@ -1,5 +1,7 @@
 LICENSE
 README.md
+pyproject.toml
+setup.cfg
 setup.py
 modeval/__init__.py
 modeval/myfunctions.py
