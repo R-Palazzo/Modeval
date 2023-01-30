@@ -10,6 +10,7 @@ def haversine(lon1: float, lat1: float, lon2: float, lat2: float) -> float:
     :param lon2: longitude of second place
     :param lat2: latitude of second place
     :return: distance in meters between the two sets of coordinates
+    
     """
     # Convert decimal degrees to radians
     lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
