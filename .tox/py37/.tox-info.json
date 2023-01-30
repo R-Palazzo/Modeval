@@ -1,0 +1,35 @@
+{
+  "ToxEnv": {
+    "name": "py37",
+    "type": "VirtualEnvRunner"
+  },
+  "Python": {
+    "version_info": [
+      3,
+      7,
+      16,
+      "final",
+      0
+    ],
+    "executable": "/usr/local/Cellar/python@3.7/3.7.16/Frameworks/Python.framework/Versions/3.7/bin/python3.7",
+    "virtualenv version": "20.17.1"
+  },
+  "PythonRun": {
+    "deps": {
+      "options": [],
+      "requirements": [
+        "flake8==3.9.2",
+        "mypy===0.910",
+        "pytest-cov==2.12.1",
+        "pytest==6.2.5",
+        "tox==3.24.3"
+      ],
+      "constraints": []
+    }
+  },
+  "RunToxEnv": {
+    "package_deps": [
+      "requests>=2"
+    ]
+  }
+}

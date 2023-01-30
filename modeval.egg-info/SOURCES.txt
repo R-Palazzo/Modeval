@@ -1,9 +1,13 @@
 LICENSE
 README.md
+pyproject.toml
+setup.cfg
 setup.py
 modeval/__init__.py
 modeval/myfunctions.py
 modeval.egg-info/PKG-INFO
 modeval.egg-info/SOURCES.txt
 modeval.egg-info/dependency_links.txt
+modeval.egg-info/not-zip-safe
+modeval.egg-info/requires.txt
 modeval.egg-info/top_level.txt
