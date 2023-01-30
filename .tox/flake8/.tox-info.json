@@ -2,5 +2,30 @@
   "ToxEnv": {
     "name": "flake8",
     "type": "VirtualEnvRunner"
+  },
+  "Python": {
+    "version_info": [
+      3,
+      9,
+      6,
+      "final",
+      0
+    ],
+    "executable": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/bin/python3.9",
+    "virtualenv version": "20.17.1"
+  },
+  "PythonRun": {
+    "deps": {
+      "options": [],
+      "requirements": [
+        "flake8"
+      ],
+      "constraints": []
+    }
+  },
+  "RunToxEnv": {
+    "package_deps": [
+      "requests>=2"
+    ]
   }
 }
