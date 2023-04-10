@@ -10,7 +10,7 @@ setup(
     extras_require={
         "test": [
             "pytest",
-            "flake8"
+            "flake8",
         ],
     },
     classifiers=[
@@ -23,3 +23,4 @@ setup(
         "Programming Language :: Python :: 3.11",
     ],
 )
+
