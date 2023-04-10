@@ -11,3 +11,5 @@ modeval.egg-info/dependency_links.txt
 modeval.egg-info/not-zip-safe
 modeval.egg-info/requires.txt
 modeval.egg-info/top_level.txt
+tests/__init__.py
+tests/test_myfunctions.py
