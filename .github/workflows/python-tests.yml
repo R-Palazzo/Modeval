@@ -30,8 +30,3 @@ jobs:
     - name: Check style
       run: |
         flake8
-    - name: Codecov
-      uses: codecov/codecov-action@v3.1.1
-      with:
-        token: token: ${{ secrets.CODECOV_TOKEN }}
-

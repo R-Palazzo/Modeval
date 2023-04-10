@@ -69,10 +69,6 @@ Requires-Dist: xmlschema ; extra == 'testing'
 .. image:: https://img.shields.io/pypi/pyversions/pytest.svg
     :target: https://pypi.org/project/pytest/
 
-.. image:: https://codecov.io/gh/pytest-dev/pytest/branch/main/graph/badge.svg
-    :target: https://codecov.io/gh/pytest-dev/pytest
-    :alt: Code coverage Status
-
 .. image:: https://github.com/pytest-dev/pytest/workflows/main/badge.svg
     :target: https://github.com/pytest-dev/pytest/actions?query=workflow%3Amain
 
