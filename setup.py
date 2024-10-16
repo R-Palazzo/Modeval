@@ -11,7 +11,7 @@ setup(
         "test": [
             "pytest",
             "flake8",
-            "pytest-cov",
+            "pytest-cov"
         ],
     },
 
